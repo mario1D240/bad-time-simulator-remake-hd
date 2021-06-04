@@ -2,5 +2,5 @@
 0,CombatZoneResize,241,226,406,391,,,,,,
 0,HeartTeleport,320,304,,,,,,
 1.0,BoneVRepeat,279,320,160,2,200,18,100,,,
-0,BoneVRepeat,421,157,160,0,200,18,100,,,
+0,BoneVRepeat,421,150,160,0,200,18,100,,,
 7.0,EndAttack,,,,,
